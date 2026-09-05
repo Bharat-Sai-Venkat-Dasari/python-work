@@ -1,0 +1,11 @@
+{
+    "username": "Venkat",
+    "branch": "CSE",
+    "batch": 7,
+    "course": "PFS",
+    "skills": [
+        "Python",
+        "Web Development",
+        "MySql"
+    ]
+}
